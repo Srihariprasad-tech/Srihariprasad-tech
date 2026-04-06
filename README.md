@@ -23,9 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srihariprasad-tech&show_icons=true&theme=radical)
-
 ---
 
 ## 🔥 LeetCode Progress
