@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Srihari Prasad
 
-<!--
-**Srihariprasad-tech/Srihariprasad-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year ISE Student at REVA University  
+💻 Aspiring Software Engineer  
+🚀 Focused on DSA & Full Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- 📌 Data Structures & Algorithms (130+ LeetCode)
+- 🌐 MERN Stack Development
+
+---
+
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,mongodb,git,github" />
+
+---
+
+## 🔗 Connect with me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 💻 GitHub: https://github.com/Srihariprasad-tech
+
+---
+
+## 📊 GitHub Stats
+![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srihariprasad-tech&show_icons=true&theme=radical)
+
+---
+
+## 🔥 LeetCode Progress
+- Solved 130+ Problems  
+- Strong in DSA fundamentals  
+- Currently solving Medium level problems  
+
+---
+
+⭐ “Consistency beats talent. I focus on growth every day.”
