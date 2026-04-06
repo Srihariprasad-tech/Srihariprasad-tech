@@ -6,7 +6,11 @@
 
 
 ## 💻 My Coding Setup
-<img src="https://raw.githubusercontent.com/Srihariprasad-tech/Srihariprasad-tech/main/setup.jpg" width="700"/>
+## 💻 My Coding Setup
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srihariprasad-tech/Srihariprasad-tech/main/setup.jpg" width="700"/>
+</p>
 ---
 
 ## 🧠 Currently Learning
