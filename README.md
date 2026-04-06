@@ -1,4 +1,4 @@
-# Hi 👋, I'm Srihari Prasad
+# Hi 👋, I'm SriHariPrasad S
 
 🎓 1st Year ISE Student at REVA University  
 💻 Aspiring Software Engineer  
@@ -18,7 +18,7 @@
 ---
 
 ## 🔗 Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn:https://www.linkedin.com/in/srihariprasad-s-5a0a3737b/
 - 💻 GitHub: https://github.com/Srihariprasad-tech
 
 ---
