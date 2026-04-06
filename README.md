@@ -4,8 +4,6 @@
 💻 Aspiring Software Engineer  
 🚀 Focused on DSA & Full Stack Development  
 
-
-## 💻 My Coding Setup
 ## 💻 My Coding Setup
 
 <p align="center">
