@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 Currently Learning
-- 📌 Data Structures & Algorithms (130+ LeetCode)
+- 📌 Data Structures & Algorithms (150+ LeetCode)
 - 🌐 MERN Stack Development
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 🔥 LeetCode Progress
-- Solved 130+ Problems  
+- Solved 150+ Problems  
 - Strong in DSA fundamentals  
 - Currently solving Medium level problems  
 
