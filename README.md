@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 LeetCode Progress
+##  LeetCode Progress
 - Solved 150+ Problems  
 - Strong in DSA fundamentals  
 - Currently solving Medium level problems  
