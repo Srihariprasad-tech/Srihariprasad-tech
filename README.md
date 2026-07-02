@@ -11,7 +11,7 @@
 </p>
 
 ## 🧠 Currently Learning
-- 📌 Data Structures & Algorithms (150+ LeetCode)
+- 📌 Data Structures & Algorithms (190+ LeetCode)
 - 🌐 MERN Stack Development
 
 ---
