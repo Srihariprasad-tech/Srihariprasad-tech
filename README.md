@@ -1,6 +1,6 @@
 # Hi 👋, I'm SriHariPrasad S
 
-🎓 2st Year ISE Student at REVA University  
+🎓 2nd Year ISE Student at REVA University  
 💻 Aspiring Software Engineer  
 🚀 Focused on DSA & Full Stack Development  
 
