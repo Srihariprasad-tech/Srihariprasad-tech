@@ -6,9 +6,8 @@
 
 ## 💻 My Coding Setup
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srihariprasad-tech/Srihariprasad-tech/main/setup.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Srihariprasad-tech/Srihariprasad-tech/main/laptop.jpg" width="700"/>
 </p>
-
 ## 🧠 Currently Learning
 - 📌 Data Structures & Algorithms (200+ LeetCode)
 - 🌐 MERN Stack Development
