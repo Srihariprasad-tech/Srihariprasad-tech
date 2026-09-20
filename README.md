@@ -5,7 +5,6 @@
 🚀 Focused on DSA & Full Stack Development  
 
 ## 💻 My Coding Setup
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Srihariprasad-tech/Srihariprasad-tech/main/setup.jpg" width="700"/>
 </p>
