@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/Srihariprasad-tech/Srihariprasad-tech/main/laptop.jpg" width="700"/>
 </p>
 ## 🧠 Currently Learning
-- 📌 Data Structures & Algorithms (200+ LeetCode)
+- 📌 Data Structures & Algorithms
 - 🌐 MERN Stack Development
 
 ---
@@ -22,16 +22,6 @@
 ## 🔗 Connect with me
 - 💼 LinkedIn:https://www.linkedin.com/in/srihariprasad-s-5a0a3737b/
 - 💻 GitHub: https://github.com/Srihariprasad-tech
-
----
-
----
-
-##  LeetCode Progress
-- Solved 200+ Problems  
-- Strong in DSA fundamentals  
-- Currently solving Medium level problems  
-
 ---
 
 ⭐ “Consistency beats talent. I focus on growth every day.”
